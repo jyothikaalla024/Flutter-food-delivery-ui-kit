@@ -48,7 +48,6 @@ To purchase the full version of this UI kit, please visit [Foody UI Kit](https:/
 | <img alt="Flutter Food Delivery Application UI Kit" src="assets/screenshots/flutter-foody-checkout-screen.png" width="400px" /> |
 
 
-## Live Demo
-[Live Demo](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit)
+
 
 ---
