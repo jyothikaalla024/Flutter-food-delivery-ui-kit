@@ -1,8 +1,5 @@
 # Flutter Food Delivery Application UI Kit - Foody
 
-> **🛒 How to Purchase**
->
-> To get the full version of this UI kit with all features and screens, visit the [Foody UI Kit product page](https://afgprogrammer.com/ui-kits/flutter-online-food-delivery-application-ui-kit) and follow the purchase instructions. After purchase, you'll receive access to the complete source code and future updates.
 
 ![Flutter Food Delivery Application UI Kit](assets/screenshots/flutter-foody-ui-kit.png)
 
